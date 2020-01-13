@@ -24,11 +24,12 @@ By the end of this lesson, you will be able to:
 There are a few components to this lesson, in the following order:
 
 1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818?from=dashboard&assignmentUuid=4cdfc361-13c8-48ec-9e6f-8ac374151e7f)
-1. [myGA module: Basic Sorting Algorithms (Focus on Bubble Sort, you will do Insertion Sort tomorrow!)]() 
+1. [myGA module: Basic Sorting Algorithms (Focus on Bubble Sort, you will do Insertion Sort tomorrow!)](https://my.generalassemb.ly/activities/778) 
 2. [In-Class Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js)
-  - To do this in class exercise, make sure you...
-    1. Fork and clone this repository to your local machine 
-    1. `cd` into this repository via terminal and do your work in the `bubblesort.js` file
+  - To do this in class exercise, you can either...
+    1. Fork and clone this repository to your local machine and work in the `bubblesort.js` file
+    1. Use [this codepen](https://codepen.io/GAmarketing/pen/xMeqaN?editors=0010#0) provided by the myGA Basic Sorting Algorithms module
+      - Note this includes insertion sort as well, but unless you finish bubble sort, don't worry about doing that section today!
 
 ## Additional Resources
 
