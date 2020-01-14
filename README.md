@@ -23,7 +23,7 @@ By the end of this lesson, you will be able to:
 
 There are a few components to this lesson, in the following order:
 
-1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818?from=dashboard&assignmentUuid=4cdfc361-13c8-48ec-9e6f-8ac374151e7f)
+1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818)
 1. [myGA module: Basic Sorting Algorithms (Focus on Bubble Sort, you will do Insertion Sort tomorrow!)](https://my.generalassemb.ly/activities/778) 
 2. [In-Class Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js)
   - To do this in class exercise, you can either...
