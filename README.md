@@ -33,7 +33,7 @@ By the end of this lesson, you will be able to:
 There are a few components to this lesson, in the following order:
 
 1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818)
-1. [myGA module: Basic Sorting Algorithms (https://my.generalassemb.ly/activities/778) 
+1. [myGA module: Basic Sorting Algorithms](https://my.generalassemb.ly/activities/778) 
 2. [Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js)
   - To do this in class exercise, you can either...
     1. Work in the `bubblesort.js` file in this folder in VS Code on your computer
