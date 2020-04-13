@@ -33,11 +33,11 @@ By the end of this lesson, you will be able to:
 There are a few components to this lesson, in the following order:
 
 1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818)
-1. [myGA module: Basic Sorting Algorithms (Focus on Bubble Sort, you will do Insertion Sort tomorrow!)](https://my.generalassemb.ly/activities/778) 
-2. [In-Class Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js)
+1. [myGA module: Basic Sorting Algorithms (https://my.generalassemb.ly/activities/778) 
+2. [Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js)
   - To do this in class exercise, you can either...
-    1. Fork and clone this repository to your local machine and work in the `bubblesort.js` file
-    1. Use [this codepen](https://codepen.io/GAmarketing/pen/xMeqaN?editors=0010#0) provided by the myGA Basic Sorting Algorithms module
+    1. Work in the `bubblesort.js` file in this folder in VS Code on your computer
+    1. Use [this codepen](https://codepen.io/GAmarketing/pen/xMeqaN?editors=0010#0) provided by the myGA Basic Sorting Algorithms module, which has built-in testing
       - Note this includes insertion sort as well, but unless you finish bubble sort, don't worry about doing that section today!
 
 ## Additional Resources
