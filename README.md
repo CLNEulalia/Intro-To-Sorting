@@ -16,6 +16,8 @@ Unless otherwise noted, homework is due at 10:00 AM ET the next day.
 This lesson is an introduction to the concept of sorting in computer science,
 including sorting methods, stability, and how Big O comes into play for sorting.
 
+![](https://ga-instruction.s3.amazonaws.com/assets/tech/computer-science/intro-sorting/comparison.gif)
+
 ## Learning Objectives
 
 By the end of this assignment, you will be able to:
