@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Recursion Homework Submission Exit Ticket
+## Sorting Homework Submission Exit Ticket
 
 Directions: Answer the following questions! 
 
