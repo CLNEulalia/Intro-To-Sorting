@@ -18,7 +18,7 @@ including sorting methods, stability, and how Big O comes into play for sorting.
 
 ## Learning Objectives
 
-By the end of this lesson, you will be able to:
+By the end of this assignment, you will be able to:
 
 - Define the two sorting methods and when you’d use each.
 - Identify whether a sort is stable or unstable, and what impact that can have.
