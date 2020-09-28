@@ -34,9 +34,9 @@ By the end of this assignment, you will be able to:
 
 There are a few components to this lesson, in the following order:
 
-1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818)
-1. [myGA module: Basic Sorting Algorithms](https://my.generalassemb.ly/activities/778) 
-2. [Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js)
+1. [myGA module: Intro to Sorting Algorithms](https://my.generalassemb.ly/activities/818) -- tonight's homework
+1. [myGA module: Basic Sorting Algorithms](https://my.generalassemb.ly/activities/778) -- tonight's homework
+2. [Exercise: Try to Write a Bubble Sort Algorithm](./bubblesort.js) -- tomorrow's morning exercise
   - To do this in class exercise, you can either...
     1. Work in the `bubblesort.js` file in this folder in VS Code on your computer
     1. Use [this codepen](https://codepen.io/GAmarketing/pen/xMeqaN?editors=0010#0) provided by the myGA Basic Sorting Algorithms module, which has built-in testing
