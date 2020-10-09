@@ -5,7 +5,8 @@
 ## Instructions 
 
 1. Fork this repo to your own account and download to your `sei/homework` folder.
-1. Follow along the steps in this README to progress through the myGA modules and work on the CodePen exercise.
+1. Follow along the steps in this README to progress through the myGA modules.
+1. Do not work on the CodePen/JavaScript implementation of Bubble Sort yet. We will work on that in the morning. 
 1. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a new issue. 
 1. The issue template will ask that you answer three exit ticket questions before submitting your issue, to summarize your learning on this topic.
 
