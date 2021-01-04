@@ -10,7 +10,7 @@
 1. When you are finished, submit your assignment by clicking on the issues tab above on this repo and start a new issue. 
 1. The issue template will ask that you answer three exit ticket questions before submitting your issue, to summarize your learning on this topic.
 
-Unless otherwise noted, homework is due at 10:00 AM ET the next day. 
+Unless otherwise noted, homework is due at 9:00 AM ET the next day. 
 
 ## Overview
 
